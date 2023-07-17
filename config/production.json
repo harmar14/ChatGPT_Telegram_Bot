@@ -1,0 +1,4 @@
+{
+  "TELEGRAM_TOKEN": "<production token>",
+  "OPENAI_KEY": "<production key>"
+}
